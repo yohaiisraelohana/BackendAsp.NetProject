@@ -1,0 +1,12 @@
+﻿# Exclude bin and obj directories
+bin/
+obj/
+
+# Exclude Visual Studio Code settings
+.vscode/
+
+# Exclude NuGet package directories
+packages/
+
+# Exclude user secrets (if used)
+secrets.json
